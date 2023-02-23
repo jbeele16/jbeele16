@@ -3,12 +3,12 @@
 ## My Name is Jareth Beeler. I am Master's Student in the [Forestry, Wildlife, and Fisheries](https://naturalresources.tennessee.edu/) Department at the[ University of Tennessee, Knoxville](https://www.utk.edu/). 
 
  ## 🔭 I’m currently working on 
- #1. Carbon Sequestration
- #2. Native Birds of the Southeast
- #3. Learning to code 
+ ### 1. Carbon Sequestration
+ ### 2. Native Birds of the Southeast
+ ### 3. Learning to code 
  
 
-## H1 My favorite video on the internet!
+## My favorite video on the internet!
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sQ1EXk7XUpE
 " target="_blank"><img src="http://img.youtube.com/vi/sQ1EXk7XUpE/0.jpg" 
