@@ -10,8 +10,8 @@
 
 ## H1 My favorite video on the internet!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=sQ1EXk7XUpE
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=sQ1EXk7XUpE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sQ1EXk7XUpE
+" target="_blank"><img src="http://img.youtube.com/vi/sQ1EXk7XUpE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <!--
